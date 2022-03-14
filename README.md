@@ -35,6 +35,6 @@ The build process will begin on your first run.
 
 2. Install `boja` and use the binary
 
-Execute `cargo install .` to build `boja` and install at `.cargo/bin` in your home directory.
+Execute `cargo install --path .` to build `boja` and to install at `.cargo/bin` in your home directory.
 
 If `.cargo/bin` is in your `$PATH` environment variable, type `boja` to run `boja`.
