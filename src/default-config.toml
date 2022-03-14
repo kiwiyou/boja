@@ -1,0 +1,9 @@
+[lang.cpp20]
+source = "Main.cc"
+compile = "g++ Main.cc -o Main -O2 -Wall -lm -static -std=gnu++20 -DONLINE_JUDGE -DBOJ"
+execute = "./Main"
+
+[lang.rs2018]
+source = "Main.rs"
+compile = "rustc --edition 2018 -O -o Main Main.rs"
+execute = "./Main"
