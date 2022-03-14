@@ -4,13 +4,13 @@
 
 More specifically, `boja` should (but cannot yet):
 
-- [] Find a problem to solve from BOJ
+- [ ] Find a problem to solve from BOJ
 
 - [x] Create source file(s) from templates
 
 - [x] Test code with given inputs and outputs
 
-- [] Submit code to BOJ platforms
+- [ ] Submit code to BOJ platforms
 
 ## Usage
 
